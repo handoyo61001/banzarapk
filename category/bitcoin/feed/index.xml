@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bitcoin &#8211; Crypto News</title>
+	<atom:link href="./index.html?simply_static_page=171" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Informasi &#38; Berita utama tentang Bitcoin, Ethereum, Blockchain &#38; lainnya</description>
+	<lastBuildDate>Sun, 15 Jan 2023 01:49:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>$600M Shorts Dilikuidasi saat Bitcoin Meroket menjadi $21K</title>
+		<link>./../../../600m-shorts-dilikuidasi/index.html</link>
+					<comments>./../../../600m-shorts-dilikuidasi/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 01:39:20 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=52</guid>
+
+					<description><![CDATA[Dalam salah satu aksi unjuk rasa yang paling mengesankan dalam waktu sekitar satu tahun, bitcoin meroket dua digit, mencapai level tertinggi dua bulan di atas $21.000. Sebagian besar koin alternatif mengikutinya, menghasilkan likuidasi lebih dari $650 juta dalam skala 24 &#8230; <a href="./../../../600m-shorts-dilikuidasi/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Dalam salah satu aksi unjuk rasa yang paling mengesankan dalam waktu sekitar satu tahun, bitcoin meroket dua digit, mencapai level tertinggi dua bulan di atas $21.000.</p>
+<p>Sebagian besar koin alternatif mengikutinya, menghasilkan likuidasi lebih dari $650 juta dalam skala 24 jam, yang sebagian besar berasal dari posisi short.</p>
+<p>Aman untuk mengatakan bahwa awal tahun cukup menguntungkan bagi pasar cryptocurrency. Bitcoin, misalnya, mencapai sekitar $16.500 pada 1 Januari. Setelah beberapa hari pertama yang sepi, ia mulai menambah nilai dan menembus di atas $17.000 awal pekan ini.</p>
+<p>Namun, itu baru permulaan, karena aset terus terpuruk di hari-hari berikutnya dan akhirnya mencapai $20.000 tadi malam.</p>
+<p>Itu terus naik dan melonjak ke $21.240 (di Bitstamp) untuk pertama kalinya sejak keruntuhan FTX yang terjadi pada awal November.</p>
+<p>everal altcoin telah meroket bahkan lebih dalam 24 jam terakhir. Solana telah mencuri perhatian dengan reli besar-besaran 40%, mendorongnya ke level tertinggi dalam beberapa bulan di atas $23.</p>
+<p>Polkadot (20%), Shiba Inu (14%), Ethereum (10,5%), Cardano (11%), Dogecoin (11%), Polygon (10%), dan OKB (10%) hanyalah beberapa contoh dari pemenang harga dua digit.<br />
+Hal ini mengakibatkan kapitalisasi pasar crypto secara keseluruhan mendekati $1 triliun untuk pertama kalinya dalam beberapa bulan di CoinMarketCap.</p>
+<p>Pedagang pendek telah merasakan sakitnya reli yang mengesankan ini, menurut CoinGlass. Nilai total posisi yang dilikuidasi di masa lalu mencapai $650 juta, tetapi $590 juta berasal dari short.</p>
+<p>Lebih dari 110.000 pedagang telah hancur dalam jangka waktu yang sama, dengan pesanan tunggal terbesar terjadi di Huobi, yang bernilai lebih dari $6,5 juta</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../600m-shorts-dilikuidasi/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
